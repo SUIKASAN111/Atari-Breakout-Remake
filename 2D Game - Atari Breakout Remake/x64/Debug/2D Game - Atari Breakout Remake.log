@@ -1,0 +1,23 @@
+﻿  ball_object.cpp
+  game.cpp
+E:\Works\Breakout\2D Game - Atari Breakout Remake\game.cpp(121,42): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Works\Breakout\2D Game - Atari Breakout Remake\game.cpp(226,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Works\Breakout\2D Game - Atari Breakout Remake\game.cpp(237,59): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  game_level.cpp
+E:\Works\Breakout\2D Game - Atari Breakout Remake\game_level.cpp(53,35): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+E:\Works\Breakout\2D Game - Atari Breakout Remake\game_level.cpp(54,37): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  game_object.cpp
+  main.cpp
+E:\Works\Breakout\2D Game - Atari Breakout Remake\main.cpp(131,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  particle_generator.cpp
+  post_processor.cpp
+  resource_manager.cpp
+  shader.cpp
+  sprite_renderer.cpp
+  texture.cpp
+  text_renderer.cpp
+E:\Works\Breakout\2D Game - Atari Breakout Remake\text_renderer.cpp(79,33): warning C4838: conversion from 'FT_Pos' to 'uint32_t' requires a narrowing conversion
+  Generating Code...
+  glad.c
+  LINK : E:\Works\Breakout\x64\Debug\2D Game - Atari Breakout Remake.exe not found or not built by the last incremental link; performing full link
+  2D Game - Atari Breakout Remake.vcxproj -> E:\Works\Breakout\x64\Debug\2D Game - Atari Breakout Remake.exe
