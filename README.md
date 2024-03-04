@@ -11,5 +11,3 @@ In this mini-game, some interesing features were implemented:
 - SFX
 - Text Rendering
 - ...
-
-## Preview
